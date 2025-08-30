@@ -10,12 +10,12 @@ Email: dingqi@fudan.edu.cn
 ### Research interests
 - General research areas: Differential geometry, Geometric analysis, Partial differential equations, Geometric measure theory, Complex geometry.
 
-- Some specific topics: minimal submanifolds in Euclidean space, minimal hypersurfaces in manifolds, mean curvature flows and their self-similar solutions, Lagrangian submanifolds, elliptic equations of mean curvature type, inverse mean curvature flows 
+- Some specific topics: minimal submanifolds in Euclidean space, minimal hypersurfaces in manifolds (and Ricci limit spaces), Lagrangian submanifolds, mean curvature flows and their self-similar solutions, inverse mean curvature flows 
 
 ### Publications 
 
 - Liouville theorem for minimal graphs over manifolds of nonnegative Ricci curvature, to appear in _Analysis & PDE_, [(arXiv:2401.03394)](https://arxiv.org/pdf/2401.03394.pdf).
-- [Boundary regularity for mean curvature flows of higher codimension](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7283/A2BD2454E9914A9EB0A4A6F23D684B59.pdf), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin), to appear in _Sci. China Math._, 2024. [(arXiv:1706.01412)](https://arxiv.org/pdf/1706.01412.pdf)
+- [Boundary regularity for mean curvature flows of higher codimension](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7283/A2BD2454E9914A9EB0A4A6F23D684B59.pdf), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin), _Sci. China Math._ 68 (2025), 1419-1430, [(arXiv:1706.01412)](https://arxiv.org/pdf/1706.01412.pdf).
 - [Poincare inequality on minimal graphs over manifolds and applications](https://dx.doi.org/10.4310/CJM.250325015952), _Cambridge Journal of Mathematics_ 13(2), 2025, 225-299, [(arXiv:2111.04458)](https://arxiv.org/pdf/2111.04458.pdf).
 - [Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation](https://rdcu.be/d1I0k), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin),  _Math. Ann._ 390, 2024, 3355-3418., [(arXiv:2109.09383)](https://arxiv.org/pdf/2109.09383.pdf)
 - [Existence and non-existence of minimal graphs](https://www.sciencedirect.com/science/article/pii/S0021782423001320), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin),  _J. Math. Pures Appl._ 179, 2023, 391-424. [(arXiv:1701.01674)](https://arxiv.org/pdf/1701.01674.pdf)
@@ -55,7 +55,8 @@ Email: dingqi@fudan.edu.cn
 
 ### Employment
 
-- Associate Professor, Shanghai Center for Mathematical Sciences, Fudan university, from July 2020
+- Professor, Shanghai Center for Mathematical Sciences, Fudan university, from July 2025
+- Associate Professor, Shanghai Center for Mathematical Sciences, Fudan university, July 2020-June 2025
 - Visiting Scholar, Massachusetts Institute of Technology, U.S., Nov. 2017-Oct. 2018
 - Assistant Professor, Shanghai Center for Mathematical Sciences, Fudan university, July 2016-June 2020
 - Young Investigator, Shanghai Center for Mathematical Sciences, Fudan university, Sep. 2014-June 2016
