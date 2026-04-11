@@ -15,7 +15,7 @@ Email: dingqi@fudan.edu.cn
 ### Publications 
 
 - [Topology of complete minimal submanifolds in R^{n+m} with finite total curvature](https://link.springer.com/article/10.1007/s00526-026-03294-5), (with Lei Zhang), _Calc. Var. Partial Differential Equations_ 65: 124, (2026). [(arXiv:2602.12646)](https://arxiv.org/pdf/2602.12646)
-- [Liouville theorem for minimal graphs over manifolds of nonnegative Ricci curvature](https://msp.org/apde/2025/18-10/apde-v18-n10-p05-s.pdf), _Analysis & PDE_ 18 (2025), no. 10, 2537–2550. [(arXiv:2401.03394)](https://arxiv.org/pdf/2401.03394.pdf).
+- [Liouville theorem for minimal graphs over manifolds of nonnegative Ricci curvature](https://msp.org/apde/2025/18-10/apde-v18-n10-p05-s.pdf), _Analysis & PDE_ 18 (2025), no. 10, 2537–2550. [(arXiv:2401.03394)](https://arxiv.org/pdf/2401.03394.pdf)
 - [Boundary regularity for mean curvature flows of higher codimension](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7283/A2BD2454E9914A9EB0A4A6F23D684B59.pdf), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin), _Sci. China Math._ 68 (2025), 1419-1430. [(arXiv:1706.01412)](https://arxiv.org/pdf/1706.01412.pdf)
 - [Poincare inequality on minimal graphs over manifolds and applications](https://dx.doi.org/10.4310/CJM.250325015952), _Cambridge Journal of Mathematics_ 13(2), 2025, 225-299. [(arXiv:2111.04458)](https://arxiv.org/pdf/2111.04458.pdf)
 - [Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation](https://rdcu.be/d1I0k), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin),  _Math. Ann._ 390, 2024, 3355-3418. [(arXiv:2109.09383)](https://arxiv.org/pdf/2109.09383.pdf)
