@@ -10,7 +10,7 @@ Email: dingqi@fudan.edu.cn
 ### Research interests
 - General research areas: Differential geometry, Geometric analysis, Partial differential equations, Geometric measure theory, Complex geometry.
 
-- Some specific topics: minimal submanifolds in Euclidean space, minimal hypersurfaces in manifolds (and Ricci limit spaces), Lagrangian submanifolds, mean curvature flows and their self-similar solutions, inverse mean curvature flows 
+- Some specific topics: minimal submanifolds in Euclidean space, minimal hypersurfaces in manifolds (and Ricci limit spaces), Lagrangian submanifolds, mean curvature flows and their self-similar solutions 
 
 ### Publications 
 
