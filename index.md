@@ -14,6 +14,8 @@ Email: dingqi@fudan.edu.cn
 
 ### Publications 
 
+- Capacity for minimal graphs over manifolds and the half-space property, to appear in _J. Funct. Anal._. [(arXiv:2306.15137)](https://arxiv.org/pdf/2306.15137.pdf)
+- [Minimal graphs of higher dimension and codimension (in Chinese)](https://www.sciengine.com/SSM/doi/10.1360/SSM-2026-0121), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and X. Li-Jost), _Sci. Sin. Math._ 56(2026), 1–11.
 - [Topology of complete minimal submanifolds in R^{n+m} with finite total curvature](https://link.springer.com/article/10.1007/s00526-026-03294-5), (with Lei Zhang), _Calc. Var. Partial Differential Equations_ 65: 124, (2026). [(arXiv:2602.12646)](https://arxiv.org/pdf/2602.12646)
 - [Liouville theorem for minimal graphs over manifolds of nonnegative Ricci curvature](https://msp.org/apde/2025/18-10/apde-v18-n10-p05-s.pdf), _Analysis & PDE_ 18 (2025), no. 10, 2537–2550. [(arXiv:2401.03394)](https://arxiv.org/pdf/2401.03394.pdf)
 - [Boundary regularity for mean curvature flows of higher codimension](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7283/A2BD2454E9914A9EB0A4A6F23D684B59.pdf), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin), _Sci. China Math._ 68 (2025), 1419-1430. [(arXiv:1706.01412)](https://arxiv.org/pdf/1706.01412.pdf)
@@ -41,8 +43,9 @@ Email: dingqi@fudan.edu.cn
 
 ### Preprints
 
+- [Hamiltonian stationary Lagrangian currents in Ricci-flat Kähler manifolds](https://arxiv.org/pdf/2609.14444), arXiv:2609.14444.
+- [Integrability of Lawson-Osserman Cone and its Applications](https://arxiv.org/pdf/2605.24916), (with Lei Zhang), arXiv:2605.24916. 
 - [Hessian estimates for Lagrangian mean curvature equation with Lipschitz critical and supercritical phases](https://arxiv.org/pdf/2411.07511.pdf), arXiv:2411.07511.
-- [Capacity for minimal graphs over manifolds and the half-space property](https://arxiv.org/pdf/2306.15137.pdf), arXiv:2306.15137.
 - [On the self-shrinking systems in arbitrary codimensional spaces](https://arxiv.org/pdf/1012.0429.pdf), (with Zhizhang Wang), arXiv:1012.0429, 2010.
 
 ### Education
